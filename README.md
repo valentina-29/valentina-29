@@ -26,14 +26,14 @@ Hello! i'm  Systems Engineering and focused on the exciting realm of QA Testing 
 # Project Management: 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 # Other: 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
 [![Linux](https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg)](https://www.linux.org/)
 
 # I´m curry learning: 
 ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> [![Jira](https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg)](https://www.atlassian.com/software/jira) [![GitLab](https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg)](https://about.gitlab.com/)
 [![Unittest](https://www.vectorlogo.zone/logos/python/python-icon.svg)](https://docs.python.org/3/library/unittest.html)
-[![JMeter](https://jmeter.apache.org/images/logo.svg)](https://jmeter.apache.org/) [![Wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg)](https://www.wireshark.org/)
+[![JMeter](https://jmeter.apache.org/images/logo.svg)](https://jmeter.apache.org/) [![Wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg)](https://www.wireshark.org/) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=valentina-29&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
