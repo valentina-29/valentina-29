@@ -34,7 +34,6 @@ Hello! i'm  Systems Engineering and focused on the exciting realm of QA Testing 
 # Testing:
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-[![Nessus](https://www.tenable.com/downloads/logos/nessus.svg)](https://www.tenable.com/products/nessus) 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev)
 ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) 
 
@@ -59,7 +58,6 @@ Hello! i'm  Systems Engineering and focused on the exciting realm of QA Testing 
 [![Unittest](https://img.shields.io/badge/unittest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/library/unittest.html)
 [![JMeter](https://img.shields.io/badge/jmeter-3670A0?style=for-the-badge&logo=jmeter&logoColor=ffdd54)](https://jmeter.apache.org/) 
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg)](https://www.wireshark.org/)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 # 📊 GitHub Stats:
