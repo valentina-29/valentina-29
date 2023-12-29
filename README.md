@@ -1,7 +1,7 @@
 ### Hi there, i'm Valentina Arias Guerrero 👋
 
 # 💫 About Me:
-Hello! i'm  Systems Engineering and focused on the exciting realm of QA Testing in technology.<br><br>My relentless pursuit of challenges and learning drives me to excel in projects that blend precision, creativity, and problem-solving, particularly in the QA Testing domain.<br><br>I'm excited to collaborate in diverse teams, offering effective solutions and a fresh mindset to innovative projects.<br><br>I'm eager to be part of dynamic teams and contribute my passion for technology to achieve incredible goals together!
+Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!
 
 
 ## 🌐 Socials:
