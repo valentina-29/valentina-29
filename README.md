@@ -18,7 +18,7 @@ Hello! i'm  Systems Engineering and focused on the exciting realm of QA Testing 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) 
-[![Chart.js](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # Database:
@@ -56,10 +56,10 @@ Hello! i'm  Systems Engineering and focused on the exciting realm of QA Testing 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
-[![Unittest](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/library/unittest.html)
+[![Unittest](https://img.shields.io/badge/unittest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/library/unittest.html)
 [![JMeter](https://img.shields.io/badge/jmeter-3670A0?style=for-the-badge&logo=jmeter&logoColor=ffdd54)](https://jmeter.apache.org/) 
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
-[![Wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg)](https://www.wireshark.org/)]
+[![Wireshark](https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg)](https://www.wireshark.org/)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 # 📊 GitHub Stats:
