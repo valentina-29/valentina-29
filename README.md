@@ -37,7 +37,7 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
 ![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Vitest](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitest.dev/guide)
+[![Vitest](https://img.shields.io/badge/Vitest-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitest.dev/guide)
 
 
 # Project Management: 
