@@ -36,13 +36,15 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/)
+[![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)]
 ![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-[![Vitest](https://img.shields.io/badge/Vitest-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitest.dev/guide)
+
 
 
 # Project Management: 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 # Other: 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
@@ -60,7 +62,7 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 [![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 [![Unittest](https://img.shields.io/badge/unittest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/library/unittest.html)
 [![JMeter](https://img.shields.io/badge/jmeter-3670A0?style=for-the-badge&logo=jmeter&logoColor=ffdd54)](https://jmeter.apache.org/) 
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=valentina-29&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
