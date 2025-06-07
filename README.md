@@ -1,9 +1,7 @@
 <h1 align="center">
-  Hi there, I'm Valentina Arias Guerrero
- 
+  Hi there, I'm Valentina Arias Guerrero 🫰
 </h1>
 
-![1f44b](https://github.com/user-attachments/assets/295e1afc-1a20-4730-866c-d451006cfe9e)
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700C4&center=true&vCenter=true&width=600&lines=QA+Tester+%7C+Systems+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%9F;Passionate+about+Tech+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
@@ -13,6 +11,7 @@
 ## 💼 About Me
 💫 Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!
 
+---
 
 ## 🌐 Connect with Me
 <p align="center">
@@ -21,27 +20,35 @@
   </a>
 </p>
 
+---
+
 ## 🧠 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,r,vagrant" />
 </p>
 
+---
 
 ## 🧰 Frameworks & Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vue,tailwind,bootstrap,jquery,figma" />
 </p>
 
+---
 
 ## 🛢️ Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
+---
+
 ## 🎨 Design Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
 </p>
+
+---
 
 ## 🧪 Testing Tools
 <p align="center">
@@ -53,6 +60,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1J7DFr1SG0TpD8McOO0foE5EXpCDv3KSD" width="53" alt="cucumber" />
 </p>
 
+---
 
 ## 📁 Project Management
 <p align="center">
