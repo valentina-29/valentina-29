@@ -17,6 +17,7 @@
 </a>
 
 ---
+<h2> ⚙️skill & tools </h2>
 
 <table>
   <thead>
