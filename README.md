@@ -38,7 +38,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
----
+
 
 ## 🎨 Design Tools
 <p align="center">
@@ -98,7 +98,7 @@
 ---
 ## 🔥 GitHub Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinaariasguerrero&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentina-29&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 
