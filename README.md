@@ -20,6 +20,8 @@
 
 <h2 align="center">🧠 Languages & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧰 Frameworks & Libraries</h2>
 
+<h2 align="center">🧠 Languages & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧰 Frameworks & Libraries</h2>
+
 <table>
   <tr>
     <!-- Languages & Tools -->
@@ -49,6 +51,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
