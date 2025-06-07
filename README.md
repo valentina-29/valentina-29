@@ -39,14 +39,13 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 
 
 ## 🧪 Testing Tools
-<p>
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white)
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![Karate](https://img.shields.io/badge/karate-3670A0?style=for-the-badge&logo=karate&logoColor=ffdd54)](https://github.com/intuit/karate)
-</p>
+
 
 
 ## 📁 Project Management
