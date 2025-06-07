@@ -1,4 +1,4 @@
-<h1 align="center&color=000000">
+<h1 align="center">
   <a href="https://github.com/valentinaariasguerrero">Hi there, I'm Valentina Arias Guerrero 👋</a>
 </h1>
 
@@ -65,6 +65,8 @@
 ## 📁 Project Management
 <p align="center">
   <img src="https://skillicons.dev/icons?i=notion,trello,jira" />
+  <img src="https://drive.google.com/uc?export=view&id=1ZRgYez2OZkam-qWog7bmlPBMG2AbTGzA" width="53" alt="jira" />
+  <img src="https://drive.google.com/uc?export=view&id=1Q_xMQAiADpumD6OYEriNG9winsVQR2v8" width="53" alt="trello" />
 </p>
 
 ---
@@ -72,6 +74,7 @@
 ## 🚀 Currently Learning
 <p align="center">
   <img src="https://skillicons.dev/icons?i=docker,azure,gitlab" />
+  <img src="https://drive.google.com/uc?export=view&id=1SF4agnS-cg7lvhj0pG4JmVaHmb_1YArv" width="53" alt="githubaction" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
   <img src="https://img.shields.io/badge/JMeter-3670A0?style=for-the-badge&logo=jmeter&logoColor=ffdd54" />
