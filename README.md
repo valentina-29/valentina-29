@@ -18,14 +18,14 @@
 ---
 
 ## 🧠 Languages & Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=js,python,r,vagrant" />
 </p>
 
 ---
 
 ## 🧰 Frameworks & Libraries
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=vue,tailwind,bootstrap,jquery,figma" />
 </p>
 
