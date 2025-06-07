@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Valentina Arias Guerrero <img src"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700C4&center=true&vCenter=true&width=600&lines=QA+Tester+%7C+Systems+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%9F;Passionate+about+Tech+%F0%9F%92%BB" alt="Typing SVG" />
@@ -62,6 +62,15 @@
   <img src="https://drive.google.com/uc?export=view&id=1ZRgYez2OZkam-qWog7bmlPBMG2AbTGzA" width="53" alt="jira" />
   <img src="https://drive.google.com/uc?export=view&id=1Q_xMQAiADpumD6OYEriNG9winsVQR2v8" width="53" alt="trello" />
 </p>
+
+# Other: 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Rstudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white)
 
 ---
 
