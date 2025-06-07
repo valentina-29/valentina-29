@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Valentina Arias Guerrero
- [ <img src="https://github.com/user-attachments/assets/1730f4b4-466b-4e92-b54a-dfc7ee87496a" width="40" height="40" alt="waving hand" />](https://github.com/valentina-29/valentina-29/issues/2#issue-3127513923)
+ <img src="1f44b.gif" width="40" height="40" alt="waving hand gif" />
 </h1>
 
 
