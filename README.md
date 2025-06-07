@@ -1,8 +1,7 @@
 <h1 align="center">
-  Hi there, I'm Valentina Arias Guerrero 
- ![Image](https://github.com/user-attachments/assets/1730f4b4-466b-4e92-b54a-dfc7ee87496a)
+  Hi there, I'm Valentina Arias Guerrero
+  <img src="https://github.com/user-attachments/assets/1730f4b4-466b-4e92-b54a-dfc7ee87496a" width="40" height="40" alt="waving hand" />
 </h1>
-
 
 
 <p align="center">
