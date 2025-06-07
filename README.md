@@ -34,8 +34,10 @@
         <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
       </p>
     </td>
+  </tr>
 
     <!-- Frameworks & Libraries -->
+    <tr>
     <td valign="top">
       <p>
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
