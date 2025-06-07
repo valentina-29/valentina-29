@@ -22,7 +22,7 @@
 
 ---
 
-# 🧠 Languages & Tools
+## 🧠 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,python,r,vagrant" />
 </p>
