@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Valentina Arias Guerrero 
-  ![Image](https://github.com/user-attachments/assets/fa97e16e-6b88-4b57-8a8e-438babe7b7bf)
+ ![Image](https://github.com/user-attachments/assets/1730f4b4-466b-4e92-b54a-dfc7ee87496a)
 </h1>
 
 
