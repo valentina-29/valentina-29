@@ -1,5 +1,5 @@
 <img src="https://drive.google.com/uc?export=view&id=1uNH8RwCnLlOE8AGFs6oQJul4KikIoLc-" alt="banner" />
-<h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰></h1>
+<h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700C4&center=true&vCenter=true&width=600&lines=QA+Tester+%7C+Systems+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%9F;Passionate+about+Tech+%F0%9F%92%BB" alt="Typing SVG" />
@@ -18,41 +18,41 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 
 
 ## 🧠 Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,r,vagrant" />
-</p>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) 
 
 
 ## 🧰 Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,bootstrap,jquery,figma" />
-</p>
-
----
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF) 
+![Chart.js](https://img.shields.io/badge/Chart%20js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 🛢️ Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 
 ## 🧪 Testing Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=postman" />
-  <img src="https://drive.google.com/uc?export=view&id=1kIrqUL8DyL4o8iwrz7DxyRLxvCT4D1Wg" width="53" alt="playwrigth" />
-  <img src="https://drive.google.com/uc?export=view&id=1uibgon0uLcOCtDlbRWrihyYClLFl1n17" width="53" alt="pytest" />
-  <img src="https://drive.google.com/uc?export=view&id=1X9Lo3QSKNHkyAhU5sNVVXXkCUSSMrKlu" width="53" alt="karate" />
-  <img src="https://drive.google.com/uc?export=view&id=13dig4UY4I9DJQeSdJCApYAw1K3BP_jaf" width="56" alt="sonar" />
-  <img src="https://drive.google.com/uc?export=view&id=1J7DFr1SG0TpD8McOO0foE5EXpCDv3KSD" width="53" alt="cucumber" />
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white)
+![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
+![Pytest](https://img.shields.io/badge/pytest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+[![Karate](https://img.shields.io/badge/karate-3670A0?style=for-the-badge&logo=karate&logoColor=ffdd54)](https://github.com/intuit/karate)
 </p>
 
 
 ## 📁 Project Management
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=notion,trello,jira" />
-  <img src="https://drive.google.com/uc?export=view&id=1ZRgYez2OZkam-qWog7bmlPBMG2AbTGzA" width="53" alt="jira" />
-  <img src="https://drive.google.com/uc?export=view&id=1Q_xMQAiADpumD6OYEriNG9winsVQR2v8" width="53" alt="trello" />
-</p>
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
 ## Other: 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
@@ -66,15 +66,13 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 ---
 
 ## 🚀 Currently Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,gitlab" />
-  <img src="https://drive.google.com/uc?export=view&id=1SF4agnS-cg7lvhj0pG4JmVaHmb_1YArv" width="53" alt="githubaction" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-3670A0?style=for-the-badge&logo=jmeter&logoColor=ffdd54" />
-</p>
-
----
+![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+[![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
+[![Unittest](https://img.shields.io/badge/unittest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://docs.python.org/3/library/unittest.html)
+[![JMeter](https://img.shields.io/badge/jmeter-3670A0?style=for-the-badge&logo=jmeter&logoColor=ffdd54)](https://jmeter.apache.org/) 
+[![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)](https://www.selenium.dev)
 
 ## 📊 GitHub Stats
 <p align="center">
