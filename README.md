@@ -1,5 +1,7 @@
 <h1 align="center">
-  <span style="color:black">Hi there, I'm Valentina Arias Guerrero 👋</span>
+  <span style="color:black">Hi there, I'm Valentina Arias Guerrero
+    <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="40" height="40" alt="waving hand gif" />
+  </span>
 </h1>
 
 
