@@ -1,6 +1,5 @@
 <h1 align="center">
   Hi there, I'm Valentina Arias Guerrero 
-  <img src="https://images.emojiterra.com/google/noto-emoji/animated-emoji/1f44b.gif" width="40" height="40" alt="waving hand gif" />
 </h1>
 
 
