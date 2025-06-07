@@ -53,7 +53,7 @@
 ## 🧪 Testing Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman" />
-<img src="https://drive.google.com/uc?export=view&id=1kIrqUL8DyL4o8iwrz7DxyRLxvCT4D1Wg" width="30" alt="playwrigth" />
+<img src="https://drive.google.com/uc?export=view&id=1kIrqUL8DyL4o8iwrz7DxyRLxvCT4D1Wg" width="70" alt="playwrigth" />
   <img src="https://img.shields.io/badge/Pytest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Karate-31A8FF?style=for-the-badge&logoColor=white" />
 </p>
