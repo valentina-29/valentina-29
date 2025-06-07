@@ -1,5 +1,5 @@
 <h1>
- <img src="https://drive.google.com/uc?export=view&id=1uNH8RwCnLlOE8AGFs6oQJul4KikIoLc-" width="150" height="140" alt="banner" />
+ <img src="https://drive.google.com/uc?export=view&id=1uNH8RwCnLlOE8AGFs6oQJul4KikIoLc-" style="width:100%; max-width:900px; border-radius:12px;" alt="banner" />
 </h1>
 
 <p align="center">
