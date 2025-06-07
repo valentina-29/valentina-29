@@ -19,12 +19,8 @@
 
 
 <h2 align="center">🧠 Languages & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧰 Frameworks & Libraries</h2>
-
-<h2 align="center">🧠 Languages & Tools &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 🧰 Frameworks & Libraries</h2>
-
 <table>
   <tr>
-    <!-- Languages & Tools -->
     <td valign="top">
       <p>
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
@@ -37,7 +33,6 @@
       </p>
     </td>
 
-    <!-- Frameworks & Libraries -->
     <td valign="top">
       <p>
         <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
