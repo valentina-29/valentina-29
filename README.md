@@ -61,7 +61,8 @@
 ## 🧪 Testing Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman" />
-  🎭
+  ![image](https://github.com/user-attachments/assets/8a80295f-409b-47ec-bfcd-b211a76273a5)
+
   <img src="https://img.shields.io/badge/Pytest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Karate-31A8FF?style=for-the-badge&logoColor=white" />
 </p>
