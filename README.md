@@ -1,8 +1,3 @@
-
-<h1 align="center">
-  <a href="https://github.com/valentinaariasguerrero">Hi there, I'm Valentina Arias Guerrero 👋</a>
-</h1>
-
 <h1 align="center">
   <a href="https://github.com/valentinaariasguerrero">Hi there, I'm Valentina Arias Guerrero 👋</a>
 </h1>
@@ -43,7 +38,7 @@
 
 ## 🛢️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,microsoftSQLServer" />
 </p>
 
 ---
@@ -57,7 +52,7 @@
 
 ## 🧪 Testing & QA
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,pytest,playwright" />
+  <img src="https://skillicons.dev/icons?i=postman,pytest,playwright,SONARQUBE" />
   <img src="https://img.shields.io/badge/Karate-31A8FF?style=for-the-badge&logoColor=white" />
 </p>
 
