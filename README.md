@@ -106,11 +106,5 @@
 ## 👀 Visitor Counter
 [![](https://visitcount.itsvg.in/api?id=valentina-29&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
-</p>
-
 <!-- Crafted with ❤️ using GPRM (https://gprm.itsvg.in) -->
 
