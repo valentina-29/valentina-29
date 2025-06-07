@@ -1,28 +1,27 @@
+<img src="https://drive.google.com/uc?export=view&id=1uNH8RwCnLlOE8AGFs6oQJul4KikIoLc-" alt="banner" />
 <h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700C4&center=true&vCenter=true&width=600&lines=QA+Tester+%7C+Systems+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%9F;Passionate+about+Tech+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-## 💼 About Me
-💫 Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!
+## 💫 About Me
+Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!
 
 
 ## 🌐 Connect with Me
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/valentina-arias-9924742a6">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
 
----
 
 ## 🧠 Languages & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=js,python,r,vagrant" />
 </p>
 
----
 
 ## 🧰 Frameworks & Libraries
 <p>
@@ -93,20 +92,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=valentina-29&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
-
----
-## 🔥 GitHub Contribution Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentina-29&theme=dark&hide_border=false" alt="GitHub Streak" />
-</p>
-
-
-### 💥 Weekly Development Breakdown
-![](https://github-readme-stats.vercel.app/api?username=valentina-29&show_icons=true&theme=radical&count_private=true)
-
-### 🔝 Top Languages Used
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina-29&theme=radical&layout=compact)
-
 
 <!-- Crafted with ❤️ using GPRM (https://gprm.itsvg.in) -->
 
