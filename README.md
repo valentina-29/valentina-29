@@ -16,6 +16,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
 </a>
 
+---
+
 <table>
   <thead>
     <tr>
@@ -49,7 +51,7 @@
       <th>🧪 Testing Tools</th>
     </tr>
     <tr>
-      <td align="center">
+      <td>
         <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
