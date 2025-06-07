@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center&color=000000">
   <a href="https://github.com/valentinaariasguerrero">Hi there, I'm Valentina Arias Guerrero 👋</a>
 </h1>
 
@@ -54,9 +54,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://drive.google.com/uc?export=view&id=1kIrqUL8DyL4o8iwrz7DxyRLxvCT4D1Wg" width="53" alt="playwrigth" />
-  <img src="https://drive.google.com/uc?export=view&id=1uibgon0uLcOCtDlbRWrihyYClLFl1n1" width="53" alt="pytest" />
+  <img src="https://drive.google.com/uc?export=view&id=1uibgon0uLcOCtDlbRWrihyYClLFl1n17" width="53" alt="pytest" />
   <img src="https://drive.google.com/uc?export=view&id=1X9Lo3QSKNHkyAhU5sNVVXXkCUSSMrKlu" width="53" alt="karate" />
-  <img src="https://drive.google.com/uc?export=view&id=13dig4UY4I9DJQeSdJCApYAw1K3BP_jaf" width="53" alt="sonar" />
+  <img src="https://drive.google.com/uc?export=view&id=13dig4UY4I9DJQeSdJCApYAw1K3BP_jaf" width="56" alt="sonar" />
   <img src="https://drive.google.com/uc?export=view&id=1J7DFr1SG0TpD8McOO0foE5EXpCDv3KSD" width="53" alt="cucumber" />
 </p>
 
