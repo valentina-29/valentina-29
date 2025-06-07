@@ -37,16 +37,8 @@
 </p>
 
 
-
-## 🎨 Design Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
-</p>
-
-
-
 ## 🧪 Testing Tools
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://drive.google.com/uc?export=view&id=1kIrqUL8DyL4o8iwrz7DxyRLxvCT4D1Wg" width="53" alt="playwrigth" />
   <img src="https://drive.google.com/uc?export=view&id=1uibgon0uLcOCtDlbRWrihyYClLFl1n17" width="53" alt="pytest" />
@@ -63,7 +55,7 @@
   <img src="https://drive.google.com/uc?export=view&id=1Q_xMQAiADpumD6OYEriNG9winsVQR2v8" width="53" alt="trello" />
 </p>
 
-# Other: 
+## Other: 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
 ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -75,7 +67,7 @@
 ---
 
 ## 🚀 Currently Learning
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=docker,azure,gitlab" />
   <img src="https://drive.google.com/uc?export=view&id=1SF4agnS-cg7lvhj0pG4JmVaHmb_1YArv" width="53" alt="githubaction" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
