@@ -45,7 +45,7 @@
   <img src="https://skillicons.dev/icons?i=figma,photoshop,canva" />
 </p>
 
----
+
 
 ## 🧪 Testing Tools
 <p align="center">
@@ -57,7 +57,6 @@
   <img src="https://drive.google.com/uc?export=view&id=1J7DFr1SG0TpD8McOO0foE5EXpCDv3KSD" width="53" alt="cucumber" />
 </p>
 
----
 
 ## 📁 Project Management
 <p align="center">
@@ -97,8 +96,10 @@
 </p>
 
 ---
-### 📈 Contribution Graph
-https://github-readme-streak-stats.herokuapp.com/?user=valentinaariasguerrero&theme=dark&hide_border=false
+## 🔥 GitHub Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentinaariasguerrero&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
 ### 💥 Weekly Development Breakdown
