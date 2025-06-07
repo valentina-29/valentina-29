@@ -7,15 +7,12 @@
 
 ## 💫 About Me
 Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!
-
-
-## 🌐 Connect with Me
+🌐 Connect with Me
 <p>
   <a href="https://linkedin.com/in/valentina-arias-9924742a6">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
 </p>
-
 
 ## 🧠 Languages & Tools
 <p align="center">
@@ -28,7 +25,7 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 
 
 ## 🧰 Frameworks & Libraries
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" />
