@@ -102,7 +102,8 @@
 [![Valentina's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=valentina-29&theme=radical)](https://github.com/valentina-29/github-readme-activity-graph)
 
 ### ⌛ Commit Activity (Last 7 days)
-[![valentina-29's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valentina-29&theme=radical&layout=compact)](https://github.com/valentina-29/github-readme-stats)
+[![valentina-29's wakatime stats]https://github-contributor-stats.vercel.app/api?username=valentinaariasguerrero&limit=5&theme=radical&combine_all_yearly_contributions=true
+
 
 ### 💥 Weekly Development Breakdown
 ![](https://github-readme-stats.vercel.app/api?username=valentina-29&show_icons=true&theme=radical&count_private=true)
