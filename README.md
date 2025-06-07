@@ -98,9 +98,18 @@
 </p>
 
 ---
-### 📊 GitHub Contributions Graph
+### 📈 Contribution Graph
+[![Valentina's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=valentina-29&theme=radical)](https://github.com/valentina-29/github-readme-activity-graph)
 
-[![Valentina's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=valentina-29&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+### ⌛ Commit Activity (Last 7 days)
+[![valentina-29's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=valentina-29&theme=radical&layout=compact)](https://github.com/valentina-29/github-readme-stats)
+
+### 💥 Weekly Development Breakdown
+![](https://github-readme-stats.vercel.app/api?username=valentina-29&show_icons=true&theme=radical&count_private=true)
+
+### 🔝 Top Languages Used
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=valentina-29&theme=radical&layout=compact)
+
 
 <!-- Crafted with ❤️ using GPRM (https://gprm.itsvg.in) -->
 
