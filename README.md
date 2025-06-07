@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰  <img src"https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZwMXZ5ZjNmOXRicTFkeHB0anBoNDUwejM2dzR4Y3dnMzFqdDB3NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"> Hi there, I'm Valentina Arias Guerrero <img src"https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700C4&center=true&vCenter=true&width=600&lines=QA+Tester+%7C+Systems+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%9F;Passionate+about+Tech+%F0%9F%92%BB" alt="Typing SVG" />
