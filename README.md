@@ -1,5 +1,5 @@
-<h1 align="center">
- <img src="https://drive.google.com/uc?export=view&id=1uNH8RwCnLlOE8AGFs6oQJul4KikIoLc-" width="53" alt="banner" />
+<h1>
+ <img src="https://drive.google.com/uc?export=view&id=1uNH8RwCnLlOE8AGFs6oQJul4KikIoLc-" alt="banner" />
 </h1>
 
 <p align="center">
