@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1uNH8RwCnLlOE8AGFs6oQJul4KikIoLc-" alt="banner" />
+<img src="https://drive.google.com/uc?export=view&id=1hPheiDN8Xq_i4vx4zhlhz4qh-Dr6fTCE" alt="banner" />
 <h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰</h1>
 
 <p align="center">
@@ -8,7 +8,8 @@
 ## 💫 About Me
 Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!.
 
-🌐 Connect with Me
+🌐 Connect with Me:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/valentina-arias-9924742a6) 
 
 ## 🧠 Languages & Tools
@@ -34,7 +35,7 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 
 
 ## 🛢️ Databases
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
@@ -43,7 +44,7 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 
 
 ## 🧪 Testing Tools
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Cucumber-23D96C.svg?style=for-the-badge&logo=Cucumber&logoColor=white" />
   <img src="https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=for-the-badge&logo=sonarqube&logoColor=white&color=%234E9BCD" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -57,7 +58,7 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 
 
 ## 📁 Project Management
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
   <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
@@ -65,7 +66,7 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 
 
 ## Other: 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -79,7 +80,7 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
 ---
 
 ## 🚀 Currently Learning
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7" />
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -108,12 +109,6 @@ Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentina-29&layout=compact&theme=radical" />
 </p>
 
----
-
-## 🔝 Top Contributed Repo
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=valentina-29&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
 
 <!-- Crafted with ❤️ using GPRM (https://gprm.itsvg.in) -->
 
