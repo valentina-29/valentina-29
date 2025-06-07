@@ -6,18 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700C4&center=true&vCenter=true&width=600&lines=QA+Tester+%7C+Systems+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%9F;Passionate+about+Tech+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" width="450" />
-</p>
-
 ---
 
 ## 💼 About Me
-
-🎓 **Systems Engineer** specializing in **Quality Assurance (QA) Testing**  
-💡 I love solving problems, learning new tools, and delivering solid, bug-free software  
-🤝 I enjoy collaborating in tech teams to innovate and improve testing processes  
-🌱 Constantly growing, currently learning **Azure DevOps**, **Docker**, and **Selenium**
+💫 Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!
 
 ---
 
@@ -61,7 +53,7 @@
 ## 🧪 Testing Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postman" />
-<img src="https://drive.google.com/uc?export=view&id=1kIrqUL8DyL4o8iwrz7DxyRLxvCT4D1Wg" width="300" alt="playwrigth" />
+<img src="https://drive.google.com/uc?export=view&id=1kIrqUL8DyL4o8iwrz7DxyRLxvCT4D1Wg" width="30" alt="playwrigth" />
   <img src="https://img.shields.io/badge/Pytest-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Karate-31A8FF?style=for-the-badge&logoColor=white" />
 </p>
