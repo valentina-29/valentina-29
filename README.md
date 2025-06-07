@@ -3,20 +3,18 @@
   <a href="https://github.com/valentinaariasguerrero">Hi there, I'm Valentina Arias Guerrero 👋</a>
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700C4&center=true&vCenter=true&width=435&lines=QA+Tester+%F0%9F%94%8D+%7C+Systems+Engineer+%F0%9F%92%BB;Passionate+about+Tech+%26+Testing+%F0%9F%94%A5;Welcome+to+my+GitHub+profile+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <a href="https://github.com/valentinaariasguerrero">Hi there, I'm Valentina Arias Guerrero 👋</a>
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Valentina+Arias+Guerrero+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 💫 About Me
-🌟 Systems Engineer specialized in **QA Testing**  
-⚙️ Passionate about **problem-solving**, **collaboration**, and **continuous learning**  
-🚀 Eager to contribute to innovative and dynamic teams  
+🌟 Hello! I'm Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!
 
 ---
 
@@ -38,7 +36,7 @@
 
 ## 📚 Frameworks & Libraries
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vue,tailwind,bootstrap,figma,jquery,chartjs" />
+  <img src="https://skillicons.dev/icons?i=vue,tailwind,bootstrap,vuetify,jquery,chartjs" />
 </p>
 
 ---
