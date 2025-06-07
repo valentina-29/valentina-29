@@ -98,6 +98,9 @@
 </p>
 
 ---
+### 📊 GitHub Contributions Graph
+
+[![Valentina's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=valentina-29&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- Crafted with ❤️ using GPRM (https://gprm.itsvg.in) -->
 
