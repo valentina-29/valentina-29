@@ -1,4 +1,4 @@
-<p align="center"><img src="https://media4.giphy.com/media/UrlRfoZQUCqT0mWNeS/giphy.gif"  width="80" height="50" /></p>
+<p align="center"><img src="https://media4.giphy.com/media/UrlRfoZQUCqT0mWNeS/giphy.gif"  width="100" height="100" /></p>
 
 <h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰</h1>
 
