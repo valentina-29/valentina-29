@@ -7,9 +7,7 @@
 </p>
 
 <h2>💫 About Me</h2>
-<p align="right">
-  <img src="https://drive.google.com/uc?export=view&id=1sOS54To4uV5ivu9N2aE_zkqNfee20Yaw" width="70" alt="icono" />
-</p>
+  <img src="https://drive.google.com/uc?export=view&id=1n4Iinc-3UogRVtiBXGFJzstZzMCRzWyU" width="250" align="right" />
 <p>Hello! I'm a Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!</p>
 
 <p>🌐 <strong>Connect with Me:</strong></p>
