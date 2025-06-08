@@ -10,14 +10,17 @@
   <img src="https://drive.google.com/uc?export=view&id=1QUXgv1TIsM3AfiDEX0s6IfB2Nc5y_5XB" width="70" alt="icono" />
 </div>
 
-<h2>💫 About Me</h2>
+<table>
+  <tr>
+    <td><h2>💫 About Me</h2></td>
+    <td align="right">
+      <img src="https://drive.google.com/uc?export=view&id=1QUXgv1TIsM3AfiDEX0s6IfB2Nc5y_5XB" width="70" alt="icono" />
+    </td>
+  </tr>
+</table>
 
-<p>Hello! I'm a Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology. My relentless pursuit of challenges and continuous learning fuels my excellence in projects that demand precision, creativity, and problem-solving, especially within QA Testing. I thrive on collaborating in diverse teams, offering effective solutions, and bringing a fresh perspective to innovative projects. I am eagerly looking forward to being part of dynamic teams, contributing my passion for technology to collectively achieve incredible goals!</p>
+<p>Hello! I'm a Systems Engineer with a keen focus on the thrilling field of QA Testing within the realm of technology...</p>
 
-<p>🌐 <strong>Connect with Me:</strong></p>
-<a href="https://linkedin.com/in/valentina-arias-9924742a6">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
 
 
 ---
