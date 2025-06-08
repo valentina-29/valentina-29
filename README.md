@@ -14,7 +14,8 @@
   <tr>
     <td><h2>💫 About Me</h2></td>
     <td align="right">
-      <img src="https://drive.google.com/uc?export=view&id=1QUXgv1TIsM3AfiDEX0s6IfB2Nc5y_5XB" alt="icono" />
+     
+      <img src="https://drive.google.com/uc?export=view&id=1sOS54To4uV5ivu9N2aE_zkqNfee20Yaw" alt="icono" />
     </td>
   </tr>
 </table>
