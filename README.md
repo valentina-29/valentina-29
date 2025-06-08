@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰</h1>
-<img align="center" src="https://drive.google.com/uc?export=view&id=1kA8VpNuApEJr0V3i2KwCcVLPLSNJGHXE" height="150" alt="banner" />
+<img src="https://drive.google.com/uc?export=view&id=1kA8VpNuApEJr0V3i2KwCcVLPLSNJGHXE" height="150" align="center" alt="banner" />
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F700C4&center=true&vCenter=true&width=600&lines=QA+Tester+%7C+Systems+Engineer+%F0%9F%92%BB;Always+Learning+%F0%9F%8C%9F;Passionate+about+Tech+%F0%9F%92%BB" alt="Typing SVG" />
