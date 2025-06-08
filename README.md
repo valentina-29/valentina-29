@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/uc?export=view&id=1kA8VpNuApEJr0V3i2KwCcVLPLSNJGHXE" alt="banner" />
+<img src="https://drive.google.com/uc?export=view&id=1kA8VpNuApEJr0V3i2KwCcVLPLSNJGHXE" height="30" alt="banner" />
 <h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰</h1>
 
 <p align="center">
