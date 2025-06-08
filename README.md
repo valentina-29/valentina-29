@@ -1,4 +1,7 @@
-<p align="center"><img src="https://media4.giphy.com/media/9QlxJalYsPANzWu6cj/giphy.gif"  width="150" height="150" /></p>
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExejd4aXV0dWdkMThidm11Njd4dDFwMW8xaWFzZjdyaGR2MnF3eHA4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9QlxJalYsPANzWu6cj/giphy.gif" width="150" height="150" alt="animation" />
+</p>
+
 
 <h1 align="center"> Hi there, I'm Valentina Arias Guerrero 🫰</h1>
 
@@ -119,7 +122,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=valentina-29&theme=radical" height="180"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=valentina-29&layout=compact&theme=radical" />
 </p>
 
